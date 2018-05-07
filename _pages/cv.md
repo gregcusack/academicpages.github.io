@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering & Computer Science and Engineering, Santa Clara University, 2016
+* B.S. in Electrical Engineering, Santa Clara University, 2016
+* B.S. in Computer Science and Engineering, Santa Clara University, 2016
 * M.S. in Electrical Engineering (Embedded Systems), University of California, Los Angeles, 2016-2017
   * Not completed
 * M.S. in Computer Engineering, 2019 (expected)
