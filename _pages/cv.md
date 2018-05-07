@@ -19,24 +19,57 @@ Education
 
 Work experience
 ======
-* Summer 2016: Software Engineering Intern
-  * TransMarket Group
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Current: Graduate Research Assistant
+  * Network and Security Research (NSR) Lab
+    * Boulder, CO
+  * Projects include:
+    * Ransomware detection via network traffic signatures
+    * Password Manager for Intel's SGX
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Summer 2017: Software Engineering Intern
+  * TransMarket Group
+    * Chicago, IL
+  * Duties included:
+    * Designing automated testing framework for market exchanges around the world
+
+* Summer 2015: Applications Engineering Intern
+  * Texas Instruments
+    * Santa Clara, CA
+  * Duties included:
+    * Developing software to streamline automation for new silicon validation and benchmarking
+
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Winter 2017: Speaker Classifier
+  * Used machine learning to identify speakers using the Raspberry Pi 3 and the Matrix Creator
+  * Responsible for data sampling, processing, filtering, and power reduction in C++ and Shell
+
+* Fall 2016: Smart Hospital Bed
+  * Utilized machine learning to identify a patient’s location and orientation on a bed.
+  * Responsible for client/server multithreaded architecture development in C on the Intel Edison.
+
+* Winter 2016: Compiler for C Language in C++
+  * Built a 6-phase compiler for a simplified C language in C++. It can handle function calls, structures, pointers, arrays, etc.
+
+Honors
+======
+* Spring 2016: Computer Engineering Outstanding Senior Award
+  * Santa Clara University
+  * "Presented to a senior by the faculty of the Computer Engineering Department based on academic standing, esprit de corps, and contribution to the department, school, and community."
+
+* Spring 2015: Alpha Sigma Nu -- Jesuit Honors Society
+  * Santa Clara University
+  * Accepts students in top 15% of junior/senior class who distinguish themselves in scholarship and service to others
+  * Among the highest honors bestowed at a Jesuit Institution
+
+Leadership
+======
+* 2015-2016: Sigma Chi Lambda Gamma Event Programming Chair
+  * Elected by peers to direct the planning and execution of all fraternity-wide events
+
+* 2014-2015: SCU Men’s Rugby Vice President
+  * Organized our largest fundraising event and coordinated team travel
+  * Worked with SCU Club Sports administration to further strengthen club’s relations with SCU’s athletic department
 
 Publications
 ======
@@ -44,18 +77,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
