@@ -1,16 +1,19 @@
 ---
-title: "Paper Title Number 3"
+title: "Stochastic Substitute Training: A General Approach to Craft
+Adversarial Examples against Defenses which Obfuscate
+Gradients"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/AISec_2018_paper_34.pdf
+date: 2018-10-19
+venue: '11th ACM Workshop on Artificial Intelligence and Security'
+paperurl: 'http://academicpages.github.io/files/AISec_2018_paper_34.pdf'
+citation: 'Hashemi, Mohammad. (2018). &quot;Stochastic Substitute Training: A General Approach to Craft
+Adversarial Examples against Defenses which Obfuscate
+Gradients.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
 <a href='http://academicpages.github.io/files/paper3.pdf'>Download paper here</a>
 
-This paper is about the number 3. The number 4 is left for future work.
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Mohammad Hashemi, Greg Cusack, and Eric Keller. 2018. Stochastic Substitute Training: A General Approach to Craft
+Adversarial Examples against Defenses which Obfuscate
+Gradients. In Proceedings of the 2018 11th ACM Workshop on Artificial Intelligence and Security (AISec'18). ACM, New York, NY, USA, 25-36..
