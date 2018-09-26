@@ -23,7 +23,11 @@ Work experience
 * Current: Graduate Research Assistant
   * Network and Security Research (NSR) Lab
     * Boulder, CO
-  * Projects include:
+  * Current projects include:
+    * Implementing performance critical applications on high-rate network stream processors
+    * Elastic scaling of hardware acceleration in NFV environments
+    * Crafting adverserial examples for neural-network-based intrusion detection systems
+  * Previous projects
     * Ransomware detection via network traffic signatures
     * Password Manager for Intel's SGX
 
@@ -39,8 +43,12 @@ Work experience
   * Duties included:
     * Developing software to streamline automation for new silicon validation and benchmarking
 
-Projects
+Class Projects
 ======
+* Fall 2017: Attacking Internet Circumvension Tools
+  * Analyzed network traffic to identify when users were using Shadowsocks, a popular SOCKS5 proxy tool designed to allow users to circumvent the world's most powerful censor, China
+  * Used a random forrest classifier to reach detection rates in excess of 97%, while keeping the false positive rate below 0.5%.
+
 * Winter 2017: Speaker Classifier
   * Used machine learning to identify speakers using the Raspberry Pi 3 and the Matrix Creator
   * Responsible for data sampling, processing, filtering, and power reduction in C++ and Shell
