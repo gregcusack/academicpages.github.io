@@ -4,6 +4,7 @@ Adversarial Examples against Defenses which Obfuscate
 Gradients"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-3
+excerpt: 'This paper is about the number Neural networks. The number 2 is left for future work.'
 date: 2018-10-19
 venue: '11th ACM Workshop on Artificial Intelligence and Security'
 paperurl: 'http://gregcusack.github.io/files/AISec_2018_paper_34.pdf'
