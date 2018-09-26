@@ -9,6 +9,6 @@ paperurl: 'http://gregcusack.github.io/files/Cusack-Michel-Keller-SDN-NFV-Worksh
 citation: 'Greg Cusack, Oliver Michel, and Eric Keller. 2018. Machine Learning-Based Detection of Ransomware Using SDN. In Proceedings of the 2018 ACM International Workshop on Security in Software Defined Networks & Network Function Virtualization (SDN-NFV Sec'18). ACM, New York, NY, USA, 1-6.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/Cusack-Michel-Keller-SDN-NFV-Workshop-2018.pdf)
+[Download paper here](http://gregcusack.github.io/files/Cusack-Michel-Keller-SDN-NFV-Workshop-2018.pdf)
 
 Recommended citation: Greg Cusack, Oliver Michel, and Eric Keller. 2018. Machine Learning-Based Detection of Ransomware Using SDN. In Proceedings of the 2018 ACM International Workshop on Security in Software Defined Networks & Network Function Virtualization (SDN-NFV Sec'18). ACM, New York, NY, USA, 1-6..
