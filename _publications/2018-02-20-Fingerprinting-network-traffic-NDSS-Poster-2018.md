@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning-Based Fingerprinting of Network Traffic Using Programmable Forwarding Engines"
+title: "Machine Learning-Based Fingerprinting of Network Traffic Using Programmable Forwarding Engines (Poster)"
 collection: publications
 permalink: /publication/2018-02-20-Fingerprinting-network-traffic-NDSS-Poster-2018
 date: 2018-02-20
