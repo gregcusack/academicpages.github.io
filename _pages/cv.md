@@ -62,7 +62,7 @@ Honors
 * Computer Engineering Outstanding Senior Award \| SCU Spring 2016
   * "Presented to a senior by the faculty of the Computer Engineering Department based on academic standing, esprit de corps, and contribution to the department, school, and community."
 
-* Alpha Sigma Nu -- Jesuit Honors Society \| SCU Spring 2015: 
+* Alpha Sigma Nu -- Jesuit Honors Society \| SCU Spring 2015
   * Accepts students in top 15% of junior/senior class who distinguish themselves in scholarship and service to others
   * Among the highest honors bestowed at a Jesuit Institution
 
@@ -80,6 +80,10 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Guest Lectures
+======
+* ECEN 3350: Programming Digital Systems | CU Boulder April 2018
 
 <!-- Awards
 ======
