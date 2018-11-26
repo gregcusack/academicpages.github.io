@@ -20,8 +20,8 @@ Education
 
 Work experience
 ======
-* Graduate Research Assistant\| August 2017 - Present
-  * Networking and Security Research (NSR) Lab\| Boulder, CO
+* Graduate Research Assistant \| August 2017 - Present
+  * Networking and Security Research (NSR) Lab \| Boulder, CO
   * Current projects include:
     * Implementing performance critical applications on high-rate network stream processors
     * Elastic scaling of hardware acceleration in NFV environments
@@ -30,19 +30,19 @@ Work experience
     * Ransomware detection via network traffic signatures
     * Password Manager for Intel's SGX
 
-* Software Engineering Intern\| Summer 2017
-  * TransMarket Group\| Chicago, IL
+* Software Engineering Intern \| Summer 2017
+  * TransMarket Group \| Chicago, IL
   * Duties included:
     * Designing automated testing framework for market exchanges around the world
 
-* Applications Engineering Intern\| Summer 2015
-  * Texas Instruments\| Santa Clara, CA
+* Applications Engineering Intern \| Summer 2015
+  * Texas Instruments \| Santa Clara, CA
   * Duties included:
     * Developing software to streamline automation for new silicon validation and benchmarking
 
 Class Projects
 ======
-* Attacking Internet Circumvension Tools\| Fall 2017
+* Attacking Internet Circumvension Tools | Fall 2017
   * Analyzed network traffic to identify when users were using Shadowsocks, a popular SOCKS5 proxy tool designed to allow users to circumvent the world's most powerful censor, China
   * Used a random forrest classifier to reach detection rates in excess of 97%, while keeping the false positive rate below 0.5%.
 
