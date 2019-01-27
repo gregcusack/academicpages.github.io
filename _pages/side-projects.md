@@ -10,5 +10,5 @@ author_profile: true
 
 I am currently working on developing a serverless Slackbot.  The slackbot runs on the OpenFaaS serverless framework, which builds off of Kubernetes.  As of now, the slackbot scales down to zero, and is booted whenever someone joins a Slack channel, welcoming the user to the channel.  The slackbot then scales back down to zero, consuming minimal computational resources.
 
-The code to my Slack Bot can be found <ins>[here]</ins>(https://github.com/gregcusack/serverless-slack-bot). 
+The code to my Slack Bot can be found <ins>[here](https://github.com/gregcusack/serverless-slack-bot)</ins>. 
   
