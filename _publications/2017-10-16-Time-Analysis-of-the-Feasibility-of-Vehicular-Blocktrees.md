@@ -1,5 +1,5 @@
 ---
-title: "Poster: Time Analysis of the Feasibility of Vehicular Blocktrees"
+title: "Time Analysis of the Feasibility of Vehicular Blocktrees (Poster)"
 collection: publications
 permalink: /publication/2017-10-16-Time-Analysis-of-the-Feasibility-of-Vehicular-Blocktrees
 date: 2017-10-16

@@ -1,5 +1,5 @@
 ---
-title: "Efficient Microservices with Elastic Containers"
+title: "Efficient Microservices with Elastic Containers (Poster)"
 collection: publications
 permalink: /publication/2019-12-09-Efficient-Microservices-with-Elastic-Containers
 date: 2019-12-09
