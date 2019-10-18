@@ -1,10 +1,10 @@
 ---
-title: "Poster: Time Analysis of the Feasibility of Vehicular Blocktrees"
+title: "Efficient Microservices with Elastic Containers"
 collection: publications
-permalink: /publication/2017-10-16-Time-Analysis-of-the-Feasibility-of-Vehicular-Blocktrees
-date: 2017-10-16
-venue: 'SMARTOBJECTS’17'
-paperurl: 'https://gregcusack.github.io/files/Joy-Cusack-Gerla-vehicular-blockchains'
-citation: 'J. Joy, G. Cusack. G. Gerla. &quot; Poster: Time Analysis of the Feasibility of Vehicular Blocktrees&quot; SMARTOBJECTS, 2017'
+permalink: /publication/2019-12-09-Efficient-Microservices-with-Elastic-Containers
+date: 2019-12-09
+venue: 'CoNEXT ’19 Companion'
+paperurl: 'https://gregcusack.github.io/files/Elastic-Containers-Poster'
+citation: 'G. Cusack, M. Nazari, S. Goodarzy, P. Oberai, E. Rozner, E. Keller, R. Han.&quot;Efficient Microservices with Elastic Containers&quot; CoNEXT ’19 Companion'
 ---
-[Download paper here](https://gregcusack.github.io/files/Joy-Cusack-Gerla-vehicular-blockchains.pdf)
+[Download paper here](https://gregcusack.github.io/files/Elastic-Containers-Poster.pdf)
