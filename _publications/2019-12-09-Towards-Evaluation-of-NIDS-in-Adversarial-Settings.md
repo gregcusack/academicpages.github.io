@@ -7,4 +7,3 @@ venue: 'Big-DAMA 2019: ACM CoNEXT Workshop on Big DAta, Machine Learning and Art
 paperurl: 'https://gregcusack.github.io/files/Hashemi-Cusack-Keller-Towards-the-Evaluation-of-NIDSs-in-Adversarial-Setting.pdf'
 citation: 'M. Hashemi, G. Cusack, E. Keller. &quot; Towards Evaluation of NIDSs in Adversarial Setting&quot; ACM CoNEXT Workshop on Big DAta, Machine Learning and Artificial Intelligence for Data Communication Networks (Big-DAMA), 2019'
 ---
-[Download paper here](https://gregcusack.github.io/files/Hashemi-Cusack-Keller-Towards-the-Evaluation-of-NIDSs-in-Adversarial-Setting.pdf)
