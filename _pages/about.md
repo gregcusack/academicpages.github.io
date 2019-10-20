@@ -13,3 +13,6 @@ Originally from Santa Barbara, CA, I am a third year Ph.D. student in Computer E
 When I'm not in the lab, you can find me swimming, biking, or running.  I race for [CU Triathlon](https://www.cutriathlon.com/) and love all things bikes.  As an undergrad, I played four years of rugby for Santa Clara University as a member of the [SCUTS](http://www.santaclararfc.com/).  
 
 Email: gregory [-dot-] cusack [-at-] colorado [-dot-] edu
+
+# Overview of Currenct and Past Research - test
+![research-overview](https://gregcusack.github.io/files/Greg-Cusack-Research-Overview.png "Overview of Currenct and Past Research")
