@@ -14,5 +14,5 @@ When I'm not in the lab, you can find me swimming, biking, or running.  I race f
 
 Email: gregory [-dot-] cusack [-at-] colorado [-dot-] edu
 
-# Overview of Currenct and Past Research - test
+# The Four Key Areas of My Research
 ![research-overview](https://gregcusack.github.io/files/Greg-Cusack-Research-Overview.png "Overview of Currenct and Past Research")
