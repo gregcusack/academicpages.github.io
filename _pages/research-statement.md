@@ -14,4 +14,4 @@ My goal is to efficiently and securely operate and elastically scale cloud compu
 
 As I continue my work in the area of custom analytics and security in the cloud, I am beginning to dive into cloud elasticity and management, focusing on developing disaggregated and flexible serverless environments.  By combining fine-grained network analytics and on demand resource allocation through serverless environments, we can achieve custom, elastic, and secure computing environments.
 
-  
+![research-overview](https://gregcusack.github.io/files/Greg-Cusack-Research-Overview.png)
