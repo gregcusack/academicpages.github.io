@@ -9,7 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[Download My CV Here!](https://gregcusack.github.io/files/Greg-Cusack-Academic-CV-Fall-2019.pdf)
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+<!-- Education
 ======
 * B.S. in Electrical Engineering, Santa Clara University, 2016
 * B.S. in Computer Science and Engineering, Santa Clara University, 2016
@@ -83,7 +91,7 @@ Publications
 
 Guest Lectures
 ======
-* ECEN 3350: Programming Digital Systems | CU Boulder April 2018
+* ECEN 3350: Programming Digital Systems | CU Boulder April 2018 -->
 
 <!-- Awards
 ======
