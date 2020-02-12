@@ -13,5 +13,3 @@ As companies continue to offload their computing and network management into thi
 My goal is to efficiently and securely operate and elastically scale cloud computing in multitenant environments.  As a result, my research focuses on developing systems that sit at the intersection of security and analytics on a cloud scale.  My current work utilizes the recent emergence of highly programmable, hardware switches to design custom, cloud-scale, per-packet network analytic applications. 
 
 As I continue my work in the area of custom analytics and security in the cloud, I am beginning to dive into cloud elasticity and management, focusing on developing disaggregated and flexible serverless environments.  By combining fine-grained network analytics and on demand resource allocation through serverless environments, we can achieve custom, elastic, and secure computing environments.
-
-![research-overview](https://gregcusack.github.io/files/Greg-Cusack-Research-Overview.png)

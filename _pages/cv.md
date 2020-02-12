@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download My CV Here!](https://gregcusack.github.io/files/Greg-Cusack-Academic-CV-Fall-2019.pdf)
+[Download My CV Here!](https://gregcusack.github.io/files/Greg-Cusack-Academic-Resume-February-2020.pdf)
 
 Publications
 ======
